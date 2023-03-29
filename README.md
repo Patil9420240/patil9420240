@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mangesh Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img aling="right"alt="coding" width="400" scr=
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patil9420240&label=Profile%20views&color=0e75b6&style=flat" alt="patil9420240" /> </p>
 
 - 🌱 I’m currently learning **engineering**
